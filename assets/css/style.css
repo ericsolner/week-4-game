@@ -1,109 +1,98 @@
 @font-face {
-   font-family: 'goonies';
-   src: url("../font/goonies.ttf");
-  
+    font-family: 'goonies';
+    src: url("../font/goonies.ttf");
 }
 
 
 body {
-	background-image: url("../images/goonies2.jpg");
-	background-size: cover;
+    background-image: url("../images/goonies2.jpg");
+    background-size: cover;
 }
+
 audio {
-	float:right;
+    float: right;
 }
-h1{
-	background-image: url("../images/treasuremap.png");
-	background-size: cover;
 
-	
-	display:inline;
-	clear: both;
-	padding: 10px;
-	margin-bottom: 20px;
-	
+h1 {
+    background-image: url("../images/treasuremap.png");
+    background-size: cover;
+
+
+    display: inline;
+    clear: both;
+    padding: 10px;
+    margin-bottom: 20px;
 }
+
 .logo {
-   height:30%;
-   width:30%;
-  /* margin-left: 50%;*/
-}​
+    height: 30%;
+    width: 30%;
+    
+}
 
-
-
-#wrapper {
-	width: 100%
-	max-width:960px;
-	margin: 0 auto;
-	font-family: 'goonies';
+​ #wrapper {
+    width: 100% max-width:960px;
+    margin: 0 auto;
+    font-family: 'goonies';
 }
 
 #instructions {
-	background-image: url("../images/treasuremap.png");
-	background-size: cover;
+    background-image: url("../images/treasuremap.png");
+    background-size: cover;
 
-	width: 50%;
-	clear:both;
-	padding: 15px;
-	margin-top: 20px;
-	/*border: solid 1px #ddd*/
+    width: 50%;
+    clear: both;
+    padding: 15px;
+    margin-top: 20px;
+ 
 }
 
 #guessingNumber {
-	background-image: url("../images/treasuremap.png");
-	background-size: cover;
+    background-image: url("../images/treasuremap.png");
+    background-size: cover;
 
 
-	float: left;
-	display: inline-block;
-	padding: 10px;
-	margin-top: 20px;
-	
+    float: left;
+    display: inline-block;
+    padding: 10px;
+    margin-top: 20px;
 }
 
 #scoreboard {
-	background-image: url("../images/treasuremap.png");
-	background-size: cover;
-	display: inline-block;
-	padding: 15px 20px 10px 15px;
-	margin-top: 20px;
-	margin-left: 20px;
-	
-
+    background-image: url("../images/treasuremap.png");
+    background-size: cover;
+    display: inline-block;
+    padding: 15px 20px 10px 15px;
+    margin-top: 20px;
+    margin-left: 20px;
 }
 
 #crystals {
-	margin-top: 15px;
-	margin-bottom:26px;
-
+    margin-top: 15px;
+    margin-bottom: 26px;
 }
 
 .crystalImage {
-	height: 175px;
-	
-	margin-left: 10px
+    height: 175px;
+
+    margin-left: 10px
 }
 
 .crystalImage:firstchild {
-	margin-left: 0px;
-
+    margin-left: 0px;
 }
 
 #totalScore {
-	margin-bottom: 50px;
+    margin-bottom: 50px;
 }
 
 #yts {
-	background-image: url("../images/treasuremap.png");
-	background-size: cover;
+    background-image: url("../images/treasuremap.png");
+    background-size: cover;
 
-	display: inline;
-	padding: 20px;
-	
+    display: inline;
+    padding: 20px;
 }
 
 
 
-* {
-   font-family: goonies;
-}
