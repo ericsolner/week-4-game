@@ -14,8 +14,8 @@ audio {
 }
 
 h1 {
-    background-image: url("../images/treasuremap.png");
-    background-size: cover;
+    background-image: url("../images/map.png");
+    background-size: 100% 100%;
 
 
     display: inline;
@@ -37,8 +37,8 @@ h1 {
 }
 
 #instructions {
-    background-image: url("../images/treasuremap.png");
-    background-size: cover;
+    background-image: url("../images/map.png");
+    background-size: 100% 100%;
 
     width: 50%;
     clear: both;
@@ -47,9 +47,10 @@ h1 {
  
 }
 
+
 #guessingNumber {
-    background-image: url("../images/treasuremap.png");
-    background-size: cover;
+    background-image: url("../images/map.png");
+    background-size: 100% 100%;
 
 
     float: left;
@@ -59,8 +60,8 @@ h1 {
 }
 
 #scoreboard {
-    background-image: url("../images/treasuremap.png");
-    background-size: cover;
+    background-image: url("../images/map.png");
+    background-size: 100% 100%;
     display: inline-block;
     padding: 15px 20px 10px 15px;
     margin-top: 20px;
@@ -87,8 +88,8 @@ h1 {
 }
 
 #yts {
-    background-image: url("../images/treasuremap.png");
-    background-size: cover;
+    background-image: url("../images/map.png");
+    background-size: 100% 100%;
 
     display: inline;
     padding: 20px;
